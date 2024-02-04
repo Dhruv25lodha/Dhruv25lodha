@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhruv lodha
+- 👋 Hi, Everybody! 
 - 👀 I’m interested in programming and creating some difference. 
 - 🌱 I’m currently learning computer science. 
 - 💞️ I’m looking to collaborate on software developement projects. 
